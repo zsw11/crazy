@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GameHall-Client/GameHall-Client.iml" filepath="$PROJECT_DIR$/GameHall-Client/GameHall-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameHall-Commons/GameHall-Commons.iml" filepath="$PROJECT_DIR$/GameHall-Commons/GameHall-Commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameHall-Server/GameHall-Server.iml" filepath="$PROJECT_DIR$/GameHall-Server/GameHall-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IoC/IoC.iml" filepath="$PROJECT_DIR$/IoC/IoC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ball/ball.iml" filepath="$PROJECT_DIR$/ball/ball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book(IoC)/book(IoC).iml" filepath="$PROJECT_DIR$/book(IoC)/book(IoC).iml" />
+      <module fileurl="file://$PROJECT_DIR$/cal/cal.iml" filepath="$PROJECT_DIR$/cal/cal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-room-client/chat-room-client.iml" filepath="$PROJECT_DIR$/chat-room-client/chat-room-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat-room-server/chat-room-server.iml" filepath="$PROJECT_DIR$/chat-room-server/chat-room-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/editor/editor.iml" filepath="$PROJECT_DIR$/editor/editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fivechess-client/fivechess-client.iml" filepath="$PROJECT_DIR$/fivechess-client/fivechess-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fivechess-commons/fivechess-commons.iml" filepath="$PROJECT_DIR$/fivechess-commons/fivechess-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fivechess-server/fivechess-server.iml" filepath="$PROJECT_DIR$/fivechess-server/fivechess-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flashget/flashget.iml" filepath="$PROJECT_DIR$/flashget/flashget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foxmail/foxmail.iml" filepath="$PROJECT_DIR$/foxmail/foxmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gobang/gobang.iml" filepath="$PROJECT_DIR$/gobang/gobang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image/image.iml" filepath="$PROJECT_DIR$/image/image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkgame/linkgame.iml" filepath="$PROJECT_DIR$/linkgame/linkgame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-manager/mysql-manager.iml" filepath="$PROJECT_DIR$/mysql-manager/mysql-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tetris/tetris.iml" filepath="$PROJECT_DIR$/tetris/tetris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transaction/transaction.iml" filepath="$PROJECT_DIR$/transaction/transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewer/viewer.iml" filepath="$PROJECT_DIR$/viewer/viewer.iml" />
+    </modules>
+  </component>
+</project>
